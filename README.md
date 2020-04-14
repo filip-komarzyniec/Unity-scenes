@@ -7,6 +7,6 @@ Most of these projects are created during my 6th semester as part of the "Comput
 These scene is all about simulating a grenade throw and explosion mechanics.  
 
 * #### Terrain  
-It is a lovely 250x250 woody terrain with some additional post-processing effects applied. Perfect for Sunday chilling!      
+It is a lovely 250x250 woody terrain with some additional post-processing and other effects applied. Perfect for Sunday chilling!      
 * #### AI-arena  
 It is an attempt to create a game with intelligent enemies, based on state machine (FSM). Player has to lure all enemies into traps.  
